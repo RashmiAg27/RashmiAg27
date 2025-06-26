@@ -26,7 +26,7 @@ I enjoy combining data-driven models with interactive UI to build smart and user
 
 ## 📬 Contact
 
-📧 Reach me at: [rashmiagrawal527@gmail.com]  
+📧 Reach me at: rashmiagrawal527@gmail.com  
 
 ---
 
