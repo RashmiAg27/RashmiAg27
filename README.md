@@ -24,9 +24,7 @@ I enjoy combining data-driven models with interactive UI to build smart and user
 
 ---
 
-## 📬 Contact
 
-📧 Reach me at: rashmiagrawal527@gmail.com  
 
 ---
 
@@ -50,8 +48,8 @@ I enjoy combining data-driven models with interactive UI to build smart and user
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RashmiAg27&layout=compact&theme=radical)
 
 ---
-
-
+## 📬 Contact
+ 🔗 [LinkedIn]https://www.linkedin.com/in/rashmi-agrawal-046510212
 <!--
 **RashmiAg27/RashmiAg27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
