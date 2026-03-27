@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/rashmi-agrawal-046510212">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=RashmiAg27&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS"/>
+
 </p>
 
 </div>
@@ -21,13 +21,13 @@ class Rashmi:
     name       = "Rashmi Agrawal"
     university = "Birla Institute of Technology, Mesra"
     degree     = "B.Tech — Electronics & Communication Engineering"
-    interests  = ["Deep Learning", "CNNs", "Full Stack Engineering", "Open Source"]
+    interests  = ["Deep Learning", "Full Stack", "Open Source"]
     building   = "End-to-end ML-powered web applications"
     motto      = "Where data meets design 💡"
 ```
 
 - 🎓 **ECE Undergrad** at BIT Mesra — bridging hardware intuition with software creativity
-- 🧠 **Deep-diving into** CNNs, Transfer Learning, and model deployment
+- 🧠 **Deep-diving into** Backend and system design
 - 🎨 **Crafting full-stack apps** powered by ML backends and beautiful React frontends
 - 🌱 **Actively contributing** to open-source AI and web projects
 
@@ -89,25 +89,11 @@ class Rashmi:
 
 ---
 
-## 🎯 2025 Goals
+## 🎯 2026 Goals
 
 - [ ] 🚀 Deploy an end-to-end **ML-powered web app** to production
 - [ ] 🤝 Make meaningful contributions to **open-source AI/Web projects**
-- [ ] 📝 Write technical blogs on **ML + Web** integrations
-- [ ] ⭐ Cross **100 GitHub stars** across repositories
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=RashmiAg27&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=ffffff&rank_icon=github" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RashmiAg27&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=ffffff" width="40%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RashmiAg27&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" width="55%"/>
-
-</div>
+- [ ] 📝 Learn more about **System Design** 
 
 ---
 
