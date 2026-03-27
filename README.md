@@ -100,20 +100,6 @@ class Rashmi:
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RashmiAg27&theme=tokyonight&no-frame=true&column=6&margin-w=4"/>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RashmiAg27&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=8&margin-h=8"/>
-</div>
-
 ## 📬 Let's Connect!
 
 <div align="center">
